@@ -1,7 +1,6 @@
 body {
     padding:0px;
     margin:0px;
-    background-color:red;
 }
 * {
     box-sizing: border-box;
@@ -66,7 +65,7 @@ body {
     position: absolute;
     bottom: 0;
     left: 10px;
-    height: 20px;
+    height: 40px;
     cursor: pointer;
    float: left;
 }
@@ -76,12 +75,12 @@ body {
     left: 20px;
 }
 #red-heart img {
-    width: 20px;
+    width: 40px;
     margin:10px 0px;
     position: absolute;
     bottom: 0;
     cursor: pointer;
     left: 10px;
-    height: 20px;
+    height: 40px;
    float: left;
 }
